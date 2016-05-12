@@ -1,1 +1,2 @@
-# hello-world
+ETL為課堂範例練習
+HSBC為個人測試練習
